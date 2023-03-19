@@ -5,9 +5,9 @@ Our college query chatbot is a deep learning-based conversational AI system that
 
 It is built using Python 3.7.0 64-bit version and requires the following packages:
 
-nltk
-numpy
-tensorflow
+nltk.
+numpy.
+tensorflow.
 To download these packages, you can run the following command in the command prompt:
 
 
