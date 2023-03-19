@@ -11,7 +11,7 @@ tensorflow.
 To download these packages, you can run the following command in the command prompt:
 
 
-pip install nltk numpy tensorflow
+`pip install nltk numpy tensorflow`
 
 _**Files**
 This project contains three files:
