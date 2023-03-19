@@ -25,7 +25,8 @@ This project contains three files:
 To use the chatbot system, you must first train the model using the train_chatbot.py file. After the training is complete, you can run the chatbot system by executing the chatbot.py file. The system will prompt you to enter your query and it will respond with an appropriate answer.
 
 **Requirements**
-Python 3.7.0 64-bit version
-nltk
-numpy
-tensorflow the installing commands in prompt varies from version to version take the help of stalk overflow
+Python 3.7.0 64-bit version,
+nltk,
+numpy,
+**tensorflow the installing commands in prompt varies from version to version take the help of stalk overflow
+**
