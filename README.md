@@ -16,9 +16,9 @@ To download these packages, you can run the following command in the command pro
 _**Files**
 This project contains three files:
 
-**intents.json:** This file contains the dataset of possible queries and responses for the chatbot.
-**train_chatbot.py:** This file contains the code for training the chatbot model using the dataset in intents.json.
-**chatbot.py:** This file contains the code for running the chatbot system.
+1.**intents.json:** This file contains the dataset of possible queries and responses for the chatbot.
+2.**train_chatbot.py:** This file contains the code for training the chatbot model using the dataset in intents.json.
+3.**chatbot.py:** This file contains the code for running the chatbot system.
 
 **Usage**
 To use the chatbot system, you must first train the model using the train_chatbot.py file. After the training is complete, you can run the chatbot system by executing the chatbot.py file. The system will prompt you to enter your query and it will respond with an appropriate answer.
