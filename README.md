@@ -8,11 +8,12 @@ It is built using Python 3.7.0 64-bit version and requires the following package
 nltk.
 numpy.
 tensorflow.
-To download these packages, you can run the following command in the command prompt:
 ```
+To download these packages, you can run the following command in the command prompt:
 
+```
 `pip install nltk numpy tensorflow`
-
+```
 _**Files**
 This project contains three files:
 ```
